@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-005",
+  "repository_name": "edu-moments-copywriter",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-moments-copywriter-v1.0.0.zip",
+  "sha256": "5E399EBF856089C4BBB3CAE3B93D75F7265E949323CE70FD9779DCA5CA6D2BF2",
+  "bytes": 4862,
+  "entries": [
+    "edu-moments-copywriter/SKILL.md",
+    "edu-moments-copywriter/references/DOMAIN_GUIDE.md",
+    "edu-moments-copywriter/references/EXAMPLES.md",
+    "edu-moments-copywriter/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T21:37:58.2618607+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

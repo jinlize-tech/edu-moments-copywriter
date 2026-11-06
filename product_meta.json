@@ -1,0 +1,24 @@
+{
+  "number": 5,
+  "product_id": "JLZ-EDU-SK-005",
+  "chinese_name": "朋友圈招生文案",
+  "english_name": "Moments Copywriter",
+  "repository_name": "edu-moments-copywriter",
+  "product_type": "Skill",
+  "category": "01 招生营销中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-moments-copywriter-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "课程信息、家长关系阶段、活动机制、发布频次、真实案例约束",
+  "main_output": "朋友圈文案组、短句版、长文版、评论互动话术和发送节奏建议",
+  "package_entries": [
+    "edu-moments-copywriter/SKILL.md",
+    "edu-moments-copywriter/references/DOMAIN_GUIDE.md",
+    "edu-moments-copywriter/references/EXAMPLES.md",
+    "edu-moments-copywriter/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
